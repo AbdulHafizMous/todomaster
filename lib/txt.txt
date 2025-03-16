@@ -1,0 +1,13 @@
+
+
+origin=http://localhost:51442 flowName=GeneralOAuthFlow
+
+
+Grx97XVnDaT-jQ*
+
+https://nitlrmzkefgmjtyrjicc.supabase.co
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5pdGxybXprZWZnbWp0eXJqaWNjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIwMjA5MzQsImV4cCI6MjA1NzU5NjkzNH0.2IBAqF0ZpLbR-v_AXTxCOw5FpOvqdmQyNG8iMolP-rk
+
+const supabaseUrl = 'https://nitlrmzkefgmjtyrjicc.supabase.co';
+const supabaseKey = String.fromEnvironment('SUPABASE_KEY');
